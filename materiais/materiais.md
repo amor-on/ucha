@@ -1,6 +1,6 @@
 # Materiais de Referencia 📚
 
-A continuación presentamos unha lista de ferramentas e frameworks innovadores no ámbito da Intelixencia Artificial, especialmente en aplicacións que utilizan LLM.
+A continuación presentamos unha lista de ferramentas e frameworks innovadores no ámbito da Intelixencia Artificial, especialmente en aplicacións que utilizan LLM. Estas ferramentas representan só a punta do iceberg no campo da IA, en rápida evolución.
 
 ## AutoGen de Microsoft 🛠️
 
@@ -60,4 +60,22 @@ Ao integrarse directamente no teu editor de código, como Visual Studio Code, Gi
 
 - **[DeepCode](https://snyk.io/platform/deepcode-ai/)** Unha ferramenta de revisión de código alimentada por IA que analiza o código para atopar problemas de seguridade, bugs e outros problemas de calidade. DeepCode aprende de millóns de commits de repositorios para identificar patróns problemáticos no código.
 
-Estas ferramentas representan só a punta do iceberg no campo en rápida evolución da IA e o procesamento de linguaxe natural. Explora estes recursos para descubrir as últimas innovacións e como poden potenciar os teus proxectos de IA.
+---
+
+# Estudos
+
+## "Attention Is All You Need" por Ashish Vaswani et al.
+Introduce a arquitectura Transformer, que se converteu na base de moitos modelos de linguaxe grandes actuais. Este traballo é fundamental para entender a eficacia dos modelos actuais no procesamento da linguaxe natural grazas á súa innovadora estrutura de atención.
+Dispoñible en [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
+
+## "Reliable, Adaptable, and Attributable Language Models with Retrieval" por Akari Asai et al.
+Este traballo discute os desafíos prácticos dos modelos de linguaxe paramétricos, como alucinacións, dificultades en adaptarse a novas distribucións de datos e falta de verificabilidade. Propón os modelos de linguaxe aumentados por recuperación como a próxima xeración de modelos, destacando a súa fiabilidade, adaptabilidade e atribución grazas á incorporación de grandes almacéns de datos durante a inferencia. Propón unha rota para o desenvolvemento xeral destes modelos, que inclúe a reconsideración de almacéns de datos e sistemas de recuperación.
+Dispoñible en [arXiv:2403.03187](https://arxiv.org/abs/2403.03187)
+
+## "Language Models are Few-Shot Learners" por Brown et al.
+Presenta GPT-3, destacando a súa capacidade para realizar tarefas de procesamento de linguaxe natural con pouca ou ningunha instrución específica. Este paper é crucial para discutir as capacidades e limitacións dos modelos de linguaxe grandes actuais.
+Dispoñible en [arXiv:2005.14165](https://arxiv.org/abs/2005.14165)
+
+## "Sparks of Artificial General Intelligence: Early experiments with GPT-4" por Sébastien Bubeck et al.
+Explora unha versión temperá de GPT-4, argumentando que forma parte dunha nova cohorte de modelos de linguaxe grandes que exhiben unha intelixencia máis xeral. Destaca a súa capacidade para resolver tarefas novas e difíciles en varios campos, achegándose moito ao rendemento humano e superando a modelos anteriores.
+Dispoñible en [arXiv:2303.12712](https://arxiv.org/abs/2303.12712)
